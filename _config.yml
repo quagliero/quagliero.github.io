@@ -1,49 +1,49 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: 
+title:            Life from the Front End
+description:      I write about code. And life. Mainly code.
+disqus_shortname: quagliero
 reading_time:     true
 words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://quagliero.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Tobias HD
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "Developer. Front End is like a gateway drug, HTML and CSS just aren't enough anymore."
+  email:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  twitter:        quagliero
+  facebook:
+  github:         quagliero
+  stackexchange:
+  linkedin:       pub/tobias-harison-denby/88/a87/351
+  instagram:
+  flickr:
+  tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:   
+  google_plus: 108243202080167175312/posts
 
 # Background image to be tiled on all pages
-background: 
+background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics: UA-46667256-2
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Theme Setup
-    url: /theme-setup
-  - title: External Link
-    url: http://mademistakes.com
-    external: true
+  # - title: Theme Setup
+  #   url: /theme-setup
+  # - title: External Link
+  #   url: http://mademistakes.com
+  #   external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/London
 future:      true
 pygments:    true
 #highlighter: pygments
