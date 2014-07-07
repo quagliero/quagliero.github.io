@@ -5,6 +5,7 @@ reading_time:     true
 words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://quagliero.github.io
+env:              prod
 
 # Owner/author information
 owner:
@@ -46,7 +47,7 @@ links:
 timezone:    Europe/London
 future:      true
 pygments:    true
-#highlighter: pygments
+highlighter: pygments
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
