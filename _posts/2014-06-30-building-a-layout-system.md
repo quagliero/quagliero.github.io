@@ -2,7 +2,7 @@
 layout: post
 title: "Building a layout system"
 description: The journey of building a flexible, customisable, responsive grid system in Sass
-date: 2014-03-30 19:09:31 +0100
+date: 2014-06-30 19:09:31 +0100
 tags: [css, sass, scss, grid, matryo]
 categories: posts
 image:
