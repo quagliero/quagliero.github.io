@@ -24,7 +24,7 @@ After some thought, the needs for our grid system boiled down to:
 
 - Sass based
 - Responsive, with IE8 support
-- (Infintely) Nestable
+- (Infinitely) Nestable
 - Fractional, none of this span-12 malarkey
 - 5 base widths for media queries
 - Easily customisable per project
@@ -160,4 +160,4 @@ Perf matters :)
 
 If you&rsquo;re wondering what all the double underscores are about in the class names, we use the [BEM naming convention](http://www.integralist.co.uk/posts/maintainable-css-with-bem/) at Studio-40. That&rsquo;s a whole different post in itself, but needless to say if BEM isn&rsquo;t your thing the grid column class names are customisable too. Pretty much everything is.
 
-You can check out the [source code](https://github.com/quagliero/matryosass/blob/master/matryo.scss), [demo](http://quagliero.github.io/matryosass) and [examples](https://github.com/quagliero/matryosass#implementation) if you&rsquo; interested in a fully nestable, reversible, responsive, IE8+ layout system. _And what&rsquo;s next for Matryo?_ Well there&rsquo;s plans to add in more named media queries, such as between two widths, as well as an option to choose between min and max-width media queries by default.
+You can check out the [source code](https://github.com/quagliero/matryosass/blob/master/matryo.scss), [demo](http://quagliero.github.io/matryosass) and [examples](https://github.com/quagliero/matryosass#implementation) if you&rsquo;re interested in a fully nestable, reversible, responsive, IE8+ layout system. _And what&rsquo;s next for Matryo?_ Well there&rsquo;s plans to add in more named media queries, such as between two widths, as well as an option to choose between min and max-width media queries by default.
